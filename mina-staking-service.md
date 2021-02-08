@@ -1,4 +1,18 @@
-# Welcome To MinaIndia
+## Welcome To MinaIndia
+
+You are in good company, we have successfully providing staking service for several cryptos inculding Fantom foundation. We have impeccable track record in providing staking services.
+1) We run nodes on high quality AWS EC2 instances
+2) We maintain 100% up time
+3) We keep the delegation fee highly competetive
+4) Available on Discord for any questions
+
+
+## Discord Id
+```diff
+FantomIndia Validator 48#8254
+```
+<br/><br/>
+
 
 ## Delegation Address
 *The public key to delegate to the staking pool is*  
@@ -11,12 +25,6 @@ B62qqzuwDk78ePpqDT8AUPkpBEjPHB9EaPc6A4a1WehFSURcxnd6j8k
 * All conditions related to staking service will be announced before mainnet
 * The frequency and method of payment will be explained later
 * There will be a website and you will be able to do all the operations after mainnet from your own dashboard
-
-## Discord Id
-```diff
-FantomIndia Validator 48#8254
-```
-<br/><br/>
 
 
 ## FAQs
