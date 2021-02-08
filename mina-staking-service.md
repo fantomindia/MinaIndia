@@ -11,8 +11,6 @@ You are in good company, we have successfully providing staking service for seve
 ```diff
 FantomIndia Validator 48#8254
 ```
-<br/>
-
 ## Delegation Address
 *The public key to delegate to the staking pool is*  
 ```diff
