@@ -18,7 +18,6 @@ FantomIndia Validator 48#8254
 ```diff
 B62qqzuwDk78ePpqDT8AUPkpBEjPHB9EaPc6A4a1WehFSURcxnd6j8k
 ```
-<br/>
 * Delegating fee %5
 * You can un-delegate at any time without penalty
 * All conditions related to staking service will be announced before mainnet
