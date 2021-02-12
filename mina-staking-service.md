@@ -1,6 +1,6 @@
 ## Welcome To MinaIndia
 
-You are in good company, we have successfully providing staking service for several cryptos inculding Fantom foundation. We have impeccable track record in providing staking services.
+You are in good company, we have been successfully providing staking service for several cryptos inculding Fantom foundation. We have impeccable track record in providing staking services.
 
 fyi (Fantom node details) - https://explorer.fantom.network/validator/0x7903d1053ebdbe1f50783752f3b0d834213a799a
 
