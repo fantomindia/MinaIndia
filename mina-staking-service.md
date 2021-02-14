@@ -10,6 +10,11 @@ fyi (Fantom node details) - https://explorer.fantom.network/validator/0x7903d105
 4) Available on Discord for any questions
 
 
+## Follow us on twitter for latest updates on Mina
+
+https://twitter.com/MinaIndia2021?s=20
+
+
 ## Discord Id
 ```diff
 FantomIndia Validator 48#8254
