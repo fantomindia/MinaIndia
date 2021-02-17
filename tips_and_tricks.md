@@ -12,11 +12,8 @@ coda advanced pooled-user-commands | jq . | grep fee | sort | uniq -c | sort -n
 
 
 ### Send tokens to someone (account should be unlocked first)
-
-Unlock: 
 coda accounts unlock -public-key $YOUR_PUBLIC_KEY
 
-Send:
 coda client send-payment \
   -amount 0.5 \
   -receiver $RECEIVER_PUBLIC_KEY \
